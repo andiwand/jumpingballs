@@ -3,7 +3,7 @@ package at.andiwand.jumpingballs.physic;
 import java.awt.Graphics;
 import java.util.List;
 
-import at.andiwand.commons.math.vector.Vector2d;
+import at.stefl.commons.math.vector.Vector2d;
 
 public abstract class Body {
 

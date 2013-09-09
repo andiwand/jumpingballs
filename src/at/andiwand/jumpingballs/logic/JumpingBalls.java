@@ -12,14 +12,14 @@ import java.awt.event.MouseEvent;
 import javax.swing.JComponent;
 import javax.swing.JFrame;
 
-import at.andiwand.commons.graphics.GraphicsUtil;
-import at.andiwand.commons.math.vector.Vector2d;
 import at.andiwand.jumpingballs.physic.Ball;
 import at.andiwand.jumpingballs.physic.Body;
 import at.andiwand.jumpingballs.physic.DumpedSpring;
 import at.andiwand.jumpingballs.physic.MassPlot;
 import at.andiwand.jumpingballs.physic.Physics;
 import at.andiwand.jumpingballs.physic.Wall;
+import at.stefl.commons.graphics.GraphicsUtil;
+import at.stefl.commons.math.vector.Vector2d;
 
 public class JumpingBalls extends JComponent {
 

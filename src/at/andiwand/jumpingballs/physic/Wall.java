@@ -1,6 +1,6 @@
 package at.andiwand.jumpingballs.physic;
 
-import at.andiwand.commons.math.vector.Vector2d;
+import at.stefl.commons.math.vector.Vector2d;
 
 public class Wall {
 
